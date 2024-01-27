@@ -64,7 +64,7 @@ The salaries dataset provides comprehensive information about employees' compens
 - Utilizing histograms, pie charts, and box plots to visualize data.
 
 ![Salaries Distripution](/imgs/newplot (6).png)
-![Employees Proportion in each Jop Title](/imgs/newplot (7).png)
+![Employees Proportion in each Jop Title]("/imgs/newplot (7).png")
 
 
 ### Grouped Analysis
