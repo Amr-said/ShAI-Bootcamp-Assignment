@@ -63,21 +63,21 @@ The salaries dataset provides comprehensive information about employees' compens
 ### Data Visualization
 - Utilizing histograms, pie charts, and box plots to visualize data.
 
-![Salaries Distripution] <img src="./imgs/newplot (6).png">
-![Employees Proportion in each Jop Title] <img src="./imgs/newplot (7).png">
+[Salaries Distripution] <img src="./imgs/newplot (6).png">
+[Employees Proportion in each Jop Title] <img src="./imgs/newplot (7).png">
 
 
 ### Grouped Analysis
 
-![Average Salaries for Top 11 Job Titles Across Different Years](/imgs/newplot (9).png)
-![# Range of salaries for the top 11 job titles](/imgs/newplot (10).png)
-![# Range of Salaries for 2011, 2012, 2013, 2014](/imgs/newplot (11).png)
+[Average Salaries for Top 11 Job Titles Across Different Years]<img src="./imgs/newplot (9).png">
+[# Range of salaries for the top 11 job titles]<img src="./imgs/newplot (10).png">
+[# Range of Salaries for 2011, 2012, 2013, 2014]<img src="./imgs/newplot (11).png">
 
 ### Correlation Analysis
 - Identifying correlations and visualizing the relationship between 'TotalPay' and 'TotalPayBenefits'.
 
-![# correlation heatmap for numeric features in the dataset](/imgs/download (3).png)
-![# Scatter plot to visualize the relationship between 'TotalPay' and  TotalPayBenefits'](/imgs/newplot (12).png)
+[# correlation heatmap for numeric features in the dataset]<img src="./imgs/download (3).png">
+[# Scatter plot to visualize the relationship between 'TotalPay' and  TotalPayBenefits']<img src="./imgs/newplot (12).png">
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
