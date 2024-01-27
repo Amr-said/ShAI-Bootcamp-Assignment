@@ -1,23 +1,20 @@
-# Employee Compensation Analysis
-
 ## Overview
 This project analyzes a dataset containing information about employee compensation within an organization. The dataset includes details such as salaries, job titles, and departmental information. The analysis covers basic data exploration, descriptive statistics, data cleaning, visualizations, grouped analysis, and correlation analysis.
 
 ## Table of Contents
-- [Employee Compensation Analysis](#employee-compensation-analysis)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [About Dataset](#about-dataset)
-  - [Features](#features)
-  - [Tasks](#tasks)
-  - [Analysis Highlights](#analysis-highlights)
-    - [Data Exploration](#data-exploration)
-    - [Descriptive Statistics](#descriptive-statistics)
-    - [Data Cleaning](#data-cleaning)
-    - [Data Visualization](#data-visualization)
-    - [Grouped Analysis](#grouped-analysis)
-    - [Correlation Analysis](#correlation-analysis)
-  - [License](#license)
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [About Dataset](#about-dataset)
+- [Features](#features)
+- [Tasks](#tasks)
+- [Analysis Highlights](#analysis-highlights)
+  - [Data Exploration](#data-exploration)
+  - [Descriptive Statistics](#descriptive-statistics)
+  - [Data Cleaning](#data-cleaning)
+  - [Data Visualization](#data-visualization)
+  - [Grouped Analysis](#grouped-analysis)
+  - [Correlation Analysis](#correlation-analysis)
+- [License](#license)
 
 ## About Dataset
 The salaries dataset provides comprehensive information about employees' compensation, job titles, and related details within the organization. Key features include 'Id', 'EmployeeName', 'JobTitle', 'BasePay', 'OvertimePay', 'OtherPay', 'Benefits', 'TotalPay', 'TotalPayBenefits', 'Year', 'Notes', 'Agency', and 'Status'.
