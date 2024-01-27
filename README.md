@@ -71,7 +71,7 @@ The salaries dataset provides comprehensive information about employees' compens
 
 [Average Salaries for Top 11 Job Titles Across Different Years]<img src="./imgs/newplot (9).png">
 [# Range of salaries for the top 11 job titles]<img src="./imgs/newplot (10).png">
-[# Range of Salaries for 2011, 2012, 2013, 2014]<img src="./imgs/newplot (11).png">
+[# Range of Salaries for 2011, 2012, 2013, 2014]<img src="./imgs/newplot (11).png"> <img src="./imgs/newplot (13).png"> <img src="./imgs/newplot (14).png"> <img src="./imgs/newplot (15).png">
 
 ### Correlation Analysis
 - Identifying correlations and visualizing the relationship between 'TotalPay' and 'TotalPayBenefits'.
