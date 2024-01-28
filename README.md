@@ -1,5 +1,5 @@
 ## Overview
-This project analyzes a dataset containing information about employee compensation within an organization. The dataset includes details such as salaries, job titles, and departmental information. The analysis covers basic data exploration, descriptive statistics, data cleaning, visualizations, grouped analysis, and correlation analysis.
+This project analyzes a dataset containing information about employee compensation within an organization. The dataset includes details such as salaries, job titles, and departmental information. The analysis covers basic data exploration, descriptive statistics, data cleaning, visualizations, grouped analysis, and correlation analysis.[Hint: Most of the visualizations use plotly, to see it in the notebook you should download it.]
 
 ## Table of Contents
 - [Overview](#overview)
